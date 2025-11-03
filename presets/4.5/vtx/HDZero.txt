@@ -1,5 +1,6 @@
 #$ TITLE: HDZero VTXs
 #$ FIRMWARE_VERSION: 4.5
+#$ FIRMWARE_VERSION: 2025.12
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
 #$ KEYWORDS:  vtx, vtx table, HDzero, divimath, SA 2.1, digital, whoop, whoop lite, race v1, race v2, freestyle, tx5m.1, MSP VTX
@@ -29,7 +30,6 @@
 #$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
 #$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
 
-
 # vtxtable
 vtxtable bands 6
 vtxtable channels 8
@@ -39,7 +39,6 @@ vtxtable band 3 BOSCAM_E E CUSTOM  5705    0    0    0    0    0    0    0
 vtxtable band 4 FATSHARK F CUSTOM  5740 5760    0 5800    0    0    0    0
 vtxtable band 5 RACEBAND R CUSTOM  5658 5695 5732 5769 5806 5843 5880 5917
 vtxtable band 6 LOWBAND  L CUSTOM     0    0    0    0    0    0    0    0
-
 
 #$ OPTION_GROUP BEGIN: Select VTX model
 
@@ -63,7 +62,6 @@ vtxtable band 6 LOWBAND  L CUSTOM     0    0    0    0    0    0    0    0
 
 #$ OPTION_GROUP END
 
-
 #$ OPTION_GROUP BEGIN: VTX options
 
     #$ OPTION BEGIN (CHECKED): Set HD OSD
@@ -79,7 +77,6 @@ vtxtable band 6 LOWBAND  L CUSTOM     0    0    0    0    0    0    0    0
     #$ OPTION END
 
 #$ OPTION_GROUP END
-
 
 #$ OPTION_GROUP BEGIN: Select port for VTX
 
@@ -116,5 +113,3 @@ vtxtable band 6 LOWBAND  L CUSTOM     0    0    0    0    0    0    0    0
     #$ OPTION END
 
 #$ OPTION_GROUP END
-
-

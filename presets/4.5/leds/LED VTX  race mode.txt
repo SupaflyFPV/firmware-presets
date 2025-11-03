@@ -1,5 +1,6 @@
 #$ TITLE: RACE mode LED settings
 #$ FIRMWARE_VERSION: 4.5
+#$ FIRMWARE_VERSION: 2025.12
 #$ CATEGORY: LEDS
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: leds, race, vtx, colour change, sugarK, spec, spec racing, tinytrainer

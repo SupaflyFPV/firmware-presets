@@ -1,5 +1,6 @@
 #$ TITLE: Custom NMEA commands
 #$ FIRMWARE_VERSION: 4.5
+#$ FIRMWARE_VERSION: 2025.12
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: gps, custom commands, nmea
