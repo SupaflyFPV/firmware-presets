@@ -80,7 +80,7 @@ set dshot_bidir = ON
 #$ OPTION_GROUP END
 
 #$ OPTION_GROUP BEGIN: (EXCLUSIVE)Filters
-    #$ OPTION BEGIN (UNCHECKED): Clean Build
+    #$ OPTION BEGIN (UNCHECKED): Clean Build (High Performance)
 	    set simplified_gyro_filter_multiplier = 160
         set rpm_filter_harmonics = 3
         set rpm_filter_q = 800
@@ -95,7 +95,7 @@ set dshot_bidir = ON
 	    set dterm_lpf2_static_hz = 0
 	    set simplified_dterm_filter_multiplier = 160
     #$ OPTION END 
-    #$ OPTION BEGIN (CHECKED): Average Build
+    #$ OPTION BEGIN (CHECKED): Average Build (Robust)
 	    set simplified_gyro_filter_multiplier = 120
         set rpm_filter_harmonics = 3
         set rpm_filter_q = 700
