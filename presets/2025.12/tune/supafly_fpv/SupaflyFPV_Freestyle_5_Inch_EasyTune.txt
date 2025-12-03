@@ -25,10 +25,6 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
-#$ DESCRIPTION: Pro tuning and log check with author - [click here](https://supaflyfpv.com/product/supafly-pro-tuning/)
-#$ DESCRIPTION:
-#$ DESCRIPTION: <br>
-#$ DESCRIPTION:
 #$ DESCRIPTION: Support, feedback and chat:
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
