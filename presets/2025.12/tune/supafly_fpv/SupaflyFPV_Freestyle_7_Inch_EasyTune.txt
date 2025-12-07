@@ -116,7 +116,6 @@ set iterm_relax_cutoff = 8
         feature RX_SERIAL
         set serialrx_provider = CRSF
         set feedforward_averaging = OFF
-        set feedforward_smooth_factor = 15
         set feedforward_jitter_factor = 10
         set feedforward_boost = 10
         set rc_smoothing_auto_factor = 45
@@ -127,7 +126,6 @@ set iterm_relax_cutoff = 8
         feature RX_SERIAL
         set serialrx_provider = CRSF
         set feedforward_averaging = OFF
-        set feedforward_smooth_factor = 0
         set feedforward_jitter_factor = 10
         set feedforward_boost = 5
         set rc_smoothing_auto_factor = 45
@@ -138,7 +136,6 @@ set iterm_relax_cutoff = 8
         feature RX_SERIAL
         set serialrx_provider = CRSF
         set feedforward_averaging = OFF
-        set feedforward_smooth_factor = 30
         set feedforward_jitter_factor = 7
         set rc_smoothing_auto_factor = 45
         set rc_smoothing_auto_factor_throttle = 45
@@ -148,7 +145,6 @@ set iterm_relax_cutoff = 8
         feature RX_SERIAL
         set serialrx_provider = CRSF
         set feedforward_averaging = 2_POINT
-        set feedforward_smooth_factor = 35
         set feedforward_jitter_factor = 4
         set feedforward_boost = 18
         set rc_smoothing_auto_factor = 45
@@ -159,7 +155,6 @@ set iterm_relax_cutoff = 8
         feature RX_SERIAL
         set serialrx_provider = CRSF
         set feedforward_averaging = 2_POINT
-        set feedforward_smooth_factor = 65
         set feedforward_jitter_factor = 3
         set feedforward_boost = 18
         set rc_smoothing_auto_factor = 45
