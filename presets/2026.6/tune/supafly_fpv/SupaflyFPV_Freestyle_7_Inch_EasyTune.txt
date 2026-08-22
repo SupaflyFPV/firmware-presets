@@ -123,7 +123,7 @@ set iterm_relax_cutoff = 6
 #$ OPTION_GROUP END
 
 #$ OPTION_GROUP BEGIN: Freestyle RC Link Setup
-    #$ OPTION BEGIN (UNCHECKED): CRSF - Crossfire, ExpressLRS or Tracer
+    #$ OPTION BEGIN (CHECKED): CRSF - Crossfire, ExpressLRS or Tracer
         #$ INCLUDE: presets/2026.6/rc_link/defaults.txt
         feature RX_SERIAL
         set serialrx_provider = CRSF
