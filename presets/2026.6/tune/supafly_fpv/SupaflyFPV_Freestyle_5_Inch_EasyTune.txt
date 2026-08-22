@@ -58,7 +58,7 @@ set dshot_bidir = ON
 set iterm_relax_cutoff = 10
 
 #$ OPTION_GROUP BEGIN: (EXCLUSIVE) Tune Balance
-    #$ OPTION BEGIN (CHECKED): Flying with Action Camera
+    #$ OPTION BEGIN (UNCHECKED): Flying with Action Camera
         set anti_gravity_gain = 120
         set simplified_master_multiplier = 115
         set simplified_i_gain = 85
@@ -69,7 +69,7 @@ set iterm_relax_cutoff = 10
         set simplified_pitch_pi_gain = 120
         set simplified_pitch_d_gain = 120
     #$ OPTION END
-    #$ OPTION BEGIN (UNCHECKED): No Action Camera
+    #$ OPTION BEGIN (CHECKED): No Action Camera
         set anti_gravity_gain = 100
         set simplified_master_multiplier = 110
         set simplified_i_gain = 85

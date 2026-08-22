@@ -59,7 +59,7 @@ set dshot_bidir = ON
 set iterm_relax_cutoff = 8
 
 #$ OPTION_GROUP BEGIN: (EXCLUSIVE) Pitch Balance
-    #$ OPTION BEGIN (CHECKED): Flying with Action Camera
+    #$ OPTION BEGIN (UNCHECKED): Flying with Action Camera
         set simplified_master_multiplier = 120
         set simplified_i_gain = 90
         set simplified_d_gain = 115
@@ -69,7 +69,7 @@ set iterm_relax_cutoff = 8
         set simplified_pitch_pi_gain = 120
         set simplified_pitch_d_gain = 125
     #$ OPTION END
-    #$ OPTION BEGIN (UNCHECKED): No Action Camera
+    #$ OPTION BEGIN (CHECKED): No Action Camera
         set simplified_master_multiplier = 115
         set simplified_i_gain = 90
         set simplified_d_gain = 110
