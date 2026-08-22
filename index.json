@@ -4791,7 +4791,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/supafly_fpv/SupaflyFPV_Freestyle_3_4_Inch_EasyTune.txt",
-      "hash": "087b858832e56cc4f1cf30d88c1ada70eb15685b4099e8e51deb7953a4b41dc6",
+      "hash": "9ee32e693cee88c3d63b86bc9d98626653616f3071f10804fcdaa0bad64bf23b",
       "title": "SupaflyFPV Freestyle 3/4 Inch",
       "firmware_version": [
         "2026.6"
@@ -4814,7 +4814,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/supafly_fpv/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "2bab0e40660de4e79c43227a186680d80ffa9f7c45b4a4d9b6eb44fa55de063e",
+      "hash": "e5a9c2940b33983d98ffb7b01a662f2dac0ffa91e2f974942c5d84a76be58294",
       "title": "SupaflyFPV Freestyle 5 Inch",
       "firmware_version": [
         "2026.6"
@@ -4835,7 +4835,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/supafly_fpv/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "a01835a39ba31a18fcda94669b797907c2b19432c74f2e45ea15067e012b5eef",
+      "hash": "9a685fbacd958bc4bde06cf2c1103fe5ebda993a788670121b8b1237aea05ca2",
       "title": "SupaflyFPV Freestyle 6 Inch",
       "firmware_version": [
         "2026.6"
@@ -4856,7 +4856,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/supafly_fpv/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "99dce51c4ee78812e34b2d94e872de45c21e760fb01d1d60431f357e3eb82164",
+      "hash": "43b71257d6a08918b7396e097929b3011f2e61da03fa411d350afb6f7685937e",
       "title": "SupaflyFPV Freestyle 7 Inch",
       "firmware_version": [
         "2026.6"

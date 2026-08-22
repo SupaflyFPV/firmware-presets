@@ -40,6 +40,8 @@
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 
+#$ WARNING: This preset enables RPM filtering and bidirectional DShot. It requires compatible ESC firmware, such as AM32, Bluejay, BLHeli_32, or OX32.
+
 #$ INCLUDE: presets/2026.6/tune/defaults.txt
 #$ INCLUDE: presets/2026.6/filters/defaults.txt
 
