@@ -11,10 +11,10 @@
 #$ DESCRIPTION: This preset is intended to be used with 4/3 aspect ratio cameras.
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: You will also need to select "VTX (MSP + Displayport)" on the appropriate port in the Ports tab.
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DESCRIPTION: <h2>Preview:</h2>
 #$ DESCRIPTION: <img src="https://raw.githubusercontent.com/Jaz7Mutant/firmware-presets/refs/heads/images/misc/images/jazzmutant_osd_preset.jpeg" style="width:100%"/>
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/515
 
 #$ INCLUDE: presets/2026.6/osd/defaults.txt

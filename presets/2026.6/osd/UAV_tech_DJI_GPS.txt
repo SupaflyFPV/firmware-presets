@@ -8,17 +8,17 @@
 #$ PARSER: MARKED
 
 #$ DESCRIPTION: I am a Betaflight contributor, Youtube content creator, and professional tuner [www.theuavtech.com](https://www.theuavtech.com)
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DESCRIPTION: <img src="https://i0.wp.com/theuavtech.com/wp-content/uploads/2020/10/icon-150x150-1.png" width="125px" style="margin-left: auto; margin-right: auto; display: block;"/>
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DESCRIPTION: Information:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: General DJI **with GPS** OSD setup.  Make sure to have Custom OSD enabled in your DJI Goggles for Betaflight elements to display.
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DESCRIPTION: OSD Elements Include:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: Vbat, Amps, mAh drawn, Armed Time, Time Remaining, VTX Channel, VTX Power, Uplink Power, RSSI, etc...
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/213
 #$ INCLUDE: presets/2026.6/osd/defaults.txt
 

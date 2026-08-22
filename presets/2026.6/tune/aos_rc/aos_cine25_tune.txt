@@ -133,7 +133,7 @@ set dyn_idle_p_gain = 40
 # -- Receiver Link Options --
 
 #$ OPTION_GROUP BEGIN: (EXCLUSIVE) Choose your RC link (or apply another preset separately)
-    #$ OPTION BEGIN (CHECKED): CRSF Automatic - ExpressLRS, Crossfire or Tracer
+    #$ OPTION BEGIN (UNCHECKED): CRSF Automatic - ExpressLRS, Crossfire or Tracer
         #$ INCLUDE: presets/2026.6/rc_link/crsf/crsf_auto.txt
     #$ OPTION END
 

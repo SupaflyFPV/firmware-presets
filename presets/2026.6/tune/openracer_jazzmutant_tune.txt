@@ -6,7 +6,7 @@
 #$ AUTHOR: JazzMutant
 #$ PARSER: MARKED
 #$ DESCRIPTION: This tune was specially developed by **@JazzMutant** for 6S [OpenRacer](https://github.com/OpenRacer/OpenRacer/tree/master) with 1900-2100kv motors.
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DESCRIPTION: ## Important notes:
 #$ DESCRIPTION: - Be sure you're using ESC with bidirectional DShot support (BLHeli32, AM32, BlueJay, OX32)
 #$ DESCRIPTION: - Select "Clean builds" filters option only if your build is perfect and props are always not very damaged.
@@ -60,7 +60,7 @@ set tpa_breakpoint = 1650
 #$ OPTION_GROUP END
 
 #$ OPTION_GROUP BEGIN: Filters (select one)
-    #$ OPTION BEGIN (CHECKED): Normal builds 
+    #$ OPTION BEGIN (CHECKED): Normal builds
         set dyn_notch_count = 2
         set dyn_notch_q = 500
         set dyn_notch_min_hz = 150

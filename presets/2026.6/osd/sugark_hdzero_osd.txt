@@ -3,7 +3,7 @@
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: hdzero, HD, HDOSD, OSD, sugarK, racing
-#$ AUTHOR: sugarK 
+#$ AUTHOR: sugarK
 
 #$ DESCRIPTION: sugarKs HD OSD race settings
 #$ DESCRIPTION: Intended to be used with the HDzero race cameras using 4.3 aspect ratio.
@@ -12,14 +12,14 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: Information
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DESCRIPTION: You will also need to select "VTX (MSP + Displayport)" on the appropriate port in the ports tab.
 #$ DESCRIPTION: And yes there is an HDzero MSP-OSD preset already
 
 #$ DESCRIPTION: Preview:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: <img width="237" height="132" alt="Screenshot 2024-07-11 at 4 25 20 pm" src="https://github.com/betaflight/firmware-presets/assets/83344205/039e4153-b056-4244-91e1-2b06501326d4">
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/477
 
 #$ INCLUDE: presets/2026.6/osd/defaults.txt

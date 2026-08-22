@@ -14,7 +14,7 @@
     #$ DESCRIPTION: <img src="https://img.youtube.com/vi/B6UteJvRtjU/maxresdefault.jpg" width="350px"/> <br>
     #$ DESCRIPTION: <br>
     #$ DESCRIPTION: - YouTube Video: [BB NEXT LEVEL](https://youtu.be/B6UteJvRtjU) <br>
-    #$ DESCRIPTION: 
+    #$ DESCRIPTION:
     #$ DESCRIPTION: Description:
     #$ DESCRIPTION: -----------
     #$ DESCRIPTION: This preset is based on Damien Gans’ (Black Bird FPV) "Next Level" tuning guide. It is designed for high-quality, high-KV 5-inch quads and intentionally “overtunes” the rig to enhance juicy/sbang-style flying (high P, high I, low D, low filters). <br>
@@ -24,17 +24,17 @@
     #$ DESCRIPTION: **DO NOT** select this preset unless your ESCs support Bi-Directional DSHOT communication! <br>
     #$ DESCRIPTION: <br>
     #$ DESCRIPTION: **WARNING:** This is an aggressive tune that may cause overheating motors, oscillations, or flyaways if applied to unsuitable hardware. Apply cautiously and test thoroughly. <br>
-    #$ DESCRIPTION: 
+    #$ DESCRIPTION:
     #$ DESCRIPTION: Recommended ESC Settings
     #$ DESCRIPTION: -----------
     #$ DESCRIPTION: Motor Timing: 24 deg <br>
     #$ DESCRIPTION: Demag Compensation: Low <br>
-    #$ DESCRIPTION: PWM Frequency: 48 kHz 
-    #$ DESCRIPTION: 
+    #$ DESCRIPTION: PWM Frequency: 48 kHz
+    #$ DESCRIPTION:
     #$ DESCRIPTION: Other Recommendations
     #$ DESCRIPTION: -----------
     #$ DESCRIPTION: For stacks with more sensitive ICM gyros, consider using **FalcoX** or **Rush** gummies instead of metal nuts for softer mounting.
-    #$ DESCRIPTION: 
+    #$ DESCRIPTION:
     #$ DESCRIPTION: Option Explanation
     #$ DESCRIPTION: -----------
     #$ DESCRIPTION: - **Flying Altitude (ASL):** Black Bird FPV flies at ~1000 m above sea level and runs slightly higher PIDs there. For sea-level flying, choose the lower-altitude option (reduces P and D by 3).
@@ -89,9 +89,9 @@
     set dterm_lpf2_type = BIQUAD
     set dterm_lpf2_static_hz = 257
     set yaw_lowpass_hz = 0
-    
+
 # -- RC Link --
-    
+
 # -- Motor Settings --
     set motor_idle = 540
     set dshot_bidir = ON
@@ -188,7 +188,7 @@
 
     #$ OPTION_GROUP BEGIN: (EXCLUSIVE) Radio Link
         #$ OPTION BEGIN (UNCHECKED): BB Stick Feel
-		    #$ INCLUDE: presets/2026.6/rc_link/defaults.txt
+            #$ INCLUDE: presets/2026.6/rc_link/defaults.txt
             set rc_smoothing = ON
             set rc_smoothing_setpoint_cutoff = 0
             set rc_smoothing_throttle_cutoff = 0

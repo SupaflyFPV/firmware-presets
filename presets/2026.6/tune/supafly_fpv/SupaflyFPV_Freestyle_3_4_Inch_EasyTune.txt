@@ -24,7 +24,7 @@
 #$ DESCRIPTION: * Pick your Radio Link and Receiver Hardware UART
 #$ DESCRIPTION: * Try some Freestyle Rate starting points...
 #$ DESCRIPTION: * [Click Here to finish setup by with the integrated PID calculator and ESC guidelines](https://supaflyfpv.com/betaflight-setup/)
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: Support, feedback and chat:
@@ -38,7 +38,7 @@
 #$ DESCRIPTION:*[DISCORD SUPPORT/FEEDBACK](https://discord.gg/Gs5nTx4rE2)
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 
 #$ INCLUDE: presets/2026.6/tune/defaults.txt
 #$ INCLUDE: presets/2026.6/filters/defaults.txt
@@ -77,7 +77,7 @@ set iterm_relax_cutoff = 10
         set simplified_feedforward_gain = 85
         set simplified_pitch_pi_gain = 130
         set simplified_pitch_d_gain = 130
-    #$ OPTION END 
+    #$ OPTION END
     #$ OPTION BEGIN (UNCHECKED): True X / Toothpick
         set anti_gravity_gain = 100
         set simplified_master_multiplier = 110
@@ -110,7 +110,7 @@ set iterm_relax_cutoff = 10
         set dterm_lpf2_static_hz = 120
         set simplified_dterm_filter_multiplier = 80
         set simplified_gyro_filter_multiplier = 150
-    #$ OPTION END 
+    #$ OPTION END
     #$ OPTION BEGIN (CHECKED): Average Build (Safe Setup)
         set gyro_lpf1_static_hz = 0
         set gyro_lpf2_static_hz = 600
@@ -129,11 +129,11 @@ set iterm_relax_cutoff = 10
         set dterm_lpf2_static_hz = 120
         set simplified_dterm_filter_multiplier = 80
         set simplified_gyro_filter_multiplier = 120
-    #$ OPTION END 
+    #$ OPTION END
 #$ OPTION_GROUP END
 
-#$ OPTION_GROUP BEGIN: (EXCLUSIVE) Radio Link Setup
-    #$ OPTION BEGIN (UNCHECKED): CRSF (Crossfire, ELRS or Tracer)
+#$ OPTION_GROUP BEGIN: Freestyle RC Link Setup
+    #$ OPTION BEGIN (UNCHECKED): CRSF - Crossfire, ExpressLRS or Tracer
         #$ INCLUDE: presets/2026.6/rc_link/defaults.txt
         feature RX_SERIAL
         set serialrx_provider = CRSF
@@ -204,7 +204,7 @@ set iterm_relax_cutoff = 10
         set yaw_expo = 45
         set roll_srate = 108
         set pitch_srate = 108
-        set yaw_srate = 88     
+        set yaw_srate = 88
     #$ OPTION END
 #$ OPTION_GROUP END
 

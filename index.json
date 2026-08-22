@@ -3108,7 +3108,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_3.5_filters.txt",
-      "hash": "5763e517844d2e9cd5dac24f98875d2d493aaf38719045a31e1bcc67ea05309a",
+      "hash": "e3d572a28358f13925fc3302b296fe23be8cebc4bcb399f1a89db2fa0f471b81",
       "title": "AOS 3.5 Filters",
       "firmware_version": [
         "2026.6"
@@ -3128,7 +3128,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_4_filters.txt",
-      "hash": "89b5d7311fc86f935134d4cbd492705821ccc55b700c313975bbd0727712f49f",
+      "hash": "424216ae7ef711be8748fb63cff78fc441ff16fece65ac72965d7ee33eef2b8f",
       "title": "AOS 4 Filters",
       "firmware_version": [
         "2026.6"
@@ -3148,7 +3148,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_5.5_filters.txt",
-      "hash": "8a4a705a47121baf577f3e07eb7cdeb2acc0d24242a7991e9603313a23069d49",
+      "hash": "aa3018dc45ec764c6e47bcaae4d1b0e45c8b3dd70a7c410dd579de02651ae727",
       "title": "AOS 5.5 Filters",
       "firmware_version": [
         "2026.6"
@@ -3168,7 +3168,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_5_filters.txt",
-      "hash": "1acca7dedda96c769b5c944de52b9c2df75bb5dfc428db90124ca5a93b4dc95b",
+      "hash": "60c4685724c5d3a3946bfc507b12ae68b465dc1eaa77b2ce806b25e925c20c78",
       "title": "AOS 5 Filters",
       "firmware_version": [
         "2026.6"
@@ -3210,7 +3210,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_7_filters.txt",
-      "hash": "e81147e427a717a43f8a8d9e584691c29b72e41209b016390406db83c37a7b4b",
+      "hash": "d0ad58650afd66896767ffee0bf9789fd8f7ce0b7c16f6bcea41f45e8b9358c1",
       "title": "AOS 7 Filters",
       "firmware_version": [
         "2026.6"
@@ -3230,7 +3230,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_cine20_filters.txt",
-      "hash": "4be5b864f6f495ab4ae0a13be244009e60e92a9f32f26df5e5571d8fa207e712",
+      "hash": "a3e279909810849cb69b454dfd96fe005d054d1ef17e4ccce1655a3e7c173878",
       "title": "AOS Cine20 Filters",
       "firmware_version": [
         "2026.6"
@@ -3251,7 +3251,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_cine25_filters.txt",
-      "hash": "21528b449dbc287f920c1ac95898228c0e93cb60579ae855ff78bc85522f5deb",
+      "hash": "a8acf0e133d4fcfdf0a4a7d00bc49280c59db866fec1cac29b3bdf7cfd6f024f",
       "title": "AOS Cine25 Filters",
       "firmware_version": [
         "2026.6"
@@ -3272,7 +3272,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_cine30_filters.txt",
-      "hash": "7348d7b866016b577e5fc408f4c536ef103f712d7a0c4204a09e970505d2bd36",
+      "hash": "295e9ba2a2c6063fd35d1ae24d661da4bb2832de6cde2ca494b885f9950ba1e7",
       "title": "AOS Cine30 Filters",
       "firmware_version": [
         "2026.6"
@@ -3293,7 +3293,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_cine35_filters.txt",
-      "hash": "e875e7dbfd3e3e4b661bae1bf25fc3b6b083d31b168132baf313287f544d6c7d",
+      "hash": "c167d4d42164bc7fa3548c7356327e23eebe207be0ae63bd7cfedd6a564830ff",
       "title": "AOS Cine35 Filters",
       "firmware_version": [
         "2026.6"
@@ -3314,7 +3314,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_cine40_filters.txt",
-      "hash": "d35851d4cedeaab069a8bff6247bff6619782a5a5425ebbae0360c22bc2b6b2f",
+      "hash": "079ae616383d54ae2f691658f1ef3e34a50af060036128777e40b6871606d13d",
       "title": "AOS Cine40 Filters",
       "firmware_version": [
         "2026.6"
@@ -3355,7 +3355,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_hs5_filters.txt",
-      "hash": "8e5bdf3a02bde0a88d3824611fd88401783e0c9cdf7043c8d520937614213211",
+      "hash": "cdc611e2ec8c8b9e38b1f159ab84450c0908a02e149d4cc7e25191779e46bcc6",
       "title": "AOS HS5 200mph Filters",
       "firmware_version": [
         "2026.6"
@@ -3375,7 +3375,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_lr5_filters.txt",
-      "hash": "a560ae6f28e0ae9bd154701b74bcafffd30c9dd3d209a327d5ae46890b0f5ed9",
+      "hash": "1e378ce4f79e903918ad8db7bdd4c9e60642c256f9e25e93d4bc0953f85fe2a3",
       "title": "AOS LR5 Filters",
       "firmware_version": [
         "2026.6"
@@ -3395,7 +3395,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_t3_filters.txt",
-      "hash": "a98773c09ced03dc933e89d594f5622536e49265ec8a4056ebf4fcac8a12768c",
+      "hash": "4038a0ccf9c3f5dca2c17d6b4f471bc5da1b039927adb2e8834153d1fd26e13a",
       "title": "AOS T3 Filters",
       "firmware_version": [
         "2026.6"
@@ -3416,7 +3416,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_ul10_filters.txt",
-      "hash": "32d37712eda9754f880e9f990b9e009a1c002ba7c325ef3797bddb5189124a57",
+      "hash": "f7a68688db86bd338df8da9019c47ff097006705b04792226365b1c01ef1dad7",
       "title": "AOS UL10 Filters",
       "firmware_version": [
         "2026.6"
@@ -3436,7 +3436,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_ul5_filters.txt",
-      "hash": "922f1f4c60c7bb9ffa97fd16d3c3b85e816dacb6c005f029f7e38285899c5c88",
+      "hash": "615968db83cdd3c295654f0f7bcb906c3c45c2de8fe19d0aa555b8369155fd4b",
       "title": "AOS UL5 Filters",
       "firmware_version": [
         "2026.6"
@@ -3456,7 +3456,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_ul7_filters.txt",
-      "hash": "7324e8580a19e6ef49d498bd5d561a77c8ad90b2681f2f72cf1beb16342648d4",
+      "hash": "004bd67fc2f359beb17570043dbb1ec79d8d78b29796bf8297605a885019c742",
       "title": "AOS UL7 Filters",
       "firmware_version": [
         "2026.6"
@@ -3476,7 +3476,7 @@
     },
     {
       "fullPath": "presets/2026.6/filters/aos_rc/aos_ul8_filters.txt",
-      "hash": "167f1078d741571dd8dfb89e4f931024d5701138a234813fc49ea08fbfc8c96c",
+      "hash": "8b76f50fecabf4ecfb318e287b9150c80a3fa3601740f4672f87e0077c17d5e6",
       "title": "AOS UL8 Filters",
       "firmware_version": [
         "2026.6"
@@ -3532,7 +3532,7 @@
     },
     {
       "fullPath": "presets/2026.6/osd/JazzMutant_HDZero_osd.txt",
-      "hash": "33dbcde614acb60d7626fec867ad5cb6ea7065f36ea92a81176165c219717caa",
+      "hash": "26c971007477e64bdfb81d045b1103ac7624efd662dc509e807e0661e7bcaddd",
       "title": "JazzMutant HDZero OSD",
       "firmware_version": [
         "2026.6"
@@ -3552,7 +3552,7 @@
     },
     {
       "fullPath": "presets/2026.6/osd/UAV_tech_Analog.txt",
-      "hash": "db611300a24c8eb07f13122064539c324efc4f73ba20d855268819c7a17c71a4",
+      "hash": "9f0e6ff6ec1e0fd319cb8477e630f5b50593d0cb90d932db7a81938875de05f3",
       "title": "UAV Tech - Analog",
       "firmware_version": [
         "2026.6"
@@ -3567,7 +3567,7 @@
     },
     {
       "fullPath": "presets/2026.6/osd/UAV_tech_DJI.txt",
-      "hash": "834672936c2f4bd2e488610fd8019f9653d04208ce7fa073c556ccc29ce35574",
+      "hash": "efb0cf860f5d0558c786e245c0c05cec8ee4363ee342f8a9b2cf485db62c1fa6",
       "title": "UAV Tech - DJI",
       "firmware_version": [
         "2026.6"
@@ -3582,7 +3582,7 @@
     },
     {
       "fullPath": "presets/2026.6/osd/UAV_tech_DJI_GPS.txt",
-      "hash": "53bb9962d5509979b1137d102d9a44680a754f5f8fb8c0e874b34d8804ae49d9",
+      "hash": "efdecf9d47716b6cd5821222ec0404c64c4202451b5c18ab2f1fcacabdd0c195",
       "title": "UAV Tech - DJI with GPS",
       "firmware_version": [
         "2026.6"
@@ -3615,7 +3615,7 @@
     },
     {
       "fullPath": "presets/2026.6/osd/sugark_analog_osd.txt",
-      "hash": "7785056a926223c40c15d66e81f1f9bf34dc6de80b22101c94257e840ba18445",
+      "hash": "8b8e630dc0a2c60cec1d1f45d118147f527d64647089b9a0a0633619d1802b1a",
       "title": "sugarK analog OSD",
       "firmware_version": [
         "2026.6"
@@ -3635,7 +3635,7 @@
     },
     {
       "fullPath": "presets/2026.6/osd/sugark_hdzero_osd.txt",
-      "hash": "db396c1c182d9ff9c10dfb259cf3e575184b9bc1b3eba71cc360c929505df9cd",
+      "hash": "b9dd59928159c2cafc18dec3e9eb0f8dc7f95fac6e8362f8014956157492a779",
       "title": "sugarK HDzero OSD",
       "firmware_version": [
         "2026.6"
@@ -3655,7 +3655,7 @@
     },
     {
       "fullPath": "presets/2026.6/other/blackbox_disable.txt",
-      "hash": "3a202eb60ad8c8216efa84cc7bc916f8dddf1f4049b845fd18d7521ebb9126cb",
+      "hash": "ffc34b318c78ff078bf8d7767d8b95b0347e4d0c6f27fdfa2d1f6244d13f0d10",
       "title": "2026.6 Blackbox disable settings",
       "firmware_version": [
         "2026.6"
@@ -3710,7 +3710,7 @@
     },
     {
       "fullPath": "presets/2026.6/rates/defaults.txt",
-      "hash": "279670445c9dc79852d3af0e54514010cdf54d717af62eafde6d6539bb144a7f",
+      "hash": "9afb4f9559f1064851908ab54f280a0a82076aaeaeb614b3d4dd062ee66d73c5",
       "title": "Default rates",
       "firmware_version": [
         "2026.6"
@@ -3963,7 +3963,7 @@
     },
     {
       "fullPath": "presets/2026.6/rc_link/generic/auto_cinematic.txt",
-      "hash": "5bcaa84e44fcafef40d5c43a9711225d50c0a7ad05523a20583402e956fb1f26",
+      "hash": "f04a22a5acab432c6211391b36dab28a6c2716354ee9692399506263fe1ef010",
       "title": "Automatic RC Smoothing - Cinematic",
       "firmware_version": [
         "2026.6"
@@ -3983,8 +3983,28 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/2026.6/rc_link/generic/auto_defaults.txt",
+      "hash": "97dbe8626db1aa9d23507c4ed212178b03f90ff30438163b6e83fbc6ba4a37d0",
+      "title": "Reset automatic RC smoothing settings",
+      "firmware_version": [
+        "2026.6"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "automatic",
+        "rc",
+        "smoothing",
+        "reset"
+      ],
+      "author": "Betaflight",
+      "hidden": true,
+      "priority": 10000000000
+    },
+    {
       "fullPath": "presets/2026.6/rc_link/generic/auto_freestyle.txt",
-      "hash": "56826c38274ef1398225ffbf525d4f6e2a45a281974d7653eaa0c901274ca852",
+      "hash": "67f23a4b2e4fb3e9727537b3c5bd36d8ef85b9e3464b001056c6b78f0e70a722",
       "title": "Automatic RC Smoothing - Freestyle",
       "firmware_version": [
         "2026.6"
@@ -4005,7 +4025,7 @@
     },
     {
       "fullPath": "presets/2026.6/rc_link/generic/auto_hd_freestyle.txt",
-      "hash": "74512171a2556892df0765e7b95a781592360bdf0f4367577ef12677d661b0d5",
+      "hash": "530e5336a17d49b744e5ea5927066a28b1cad39153c5f6a9ec8273ff4967fca3",
       "title": "Automatic RC Smoothing - HD Freestyle",
       "firmware_version": [
         "2026.6"
@@ -4027,7 +4047,7 @@
     },
     {
       "fullPath": "presets/2026.6/rc_link/generic/auto_race.txt",
-      "hash": "608e5c511cf45ae028192c0dd6e4b83f047069d7a68d0bfbb531d00c7f07cf4b",
+      "hash": "d0975419ba46e927c4386f0dc6271ee53c027b7864d99a5b503dda968ea47017",
       "title": "Automatic RC Smoothing - Racing",
       "firmware_version": [
         "2026.6"
@@ -4048,7 +4068,7 @@
     },
     {
       "fullPath": "presets/2026.6/rc_link/generic/auto_ultra_cinematic.txt",
-      "hash": "f7c475b7b6e22f7ff6b87e3b6b6e7980f18768a8b2d2c18a18716848beb20f13",
+      "hash": "ccc501e801325db1df9378990dd6a7f41860186eb916542a76a026858d2c1f33",
       "title": "Automatic RC Smoothing - Ultra Cinematic",
       "firmware_version": [
         "2026.6"
@@ -4182,7 +4202,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_3.5_tune.txt",
-      "hash": "8245a582a78e38b959a01343cf90163b9012752abbd58a95d0eb8ca53a9fc381",
+      "hash": "f116f93ed470851e02712e898c28a18399fa900187d11359f574949f227ea9ba",
       "title": "AOS 3.5 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4203,7 +4223,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_4_tune.txt",
-      "hash": "ca45fc91a5e78d0a214a8ad49c8f2b1005eef668f4dab90ca7ae22423bfe3a92",
+      "hash": "cd304139ce06ca7d58870a4fd0b9e4c9af3585af442f1f7df990f463f27da2ea",
       "title": "AOS 4 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4224,7 +4244,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_5.5_tune.txt",
-      "hash": "fcfaa5bfec9725ac8061766921b976921473b2b08dab8cc9a65d319bb92d3c64",
+      "hash": "3e2dbfeedd0500022a6ca2e095e27dcb7f4584d2b01f28488152d2338c238a0b",
       "title": "AOS 5.5 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4245,7 +4265,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_5_tune.txt",
-      "hash": "dc42956038e0605388ba540e2180d00d3009d864e205035ba2826dd7a285fd8f",
+      "hash": "69dd1540000ef5f19dd5fc41316ea74e1254937ba8ca4dac90de3ac999337ff2",
       "title": "AOS 5 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4266,7 +4286,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_65mm_tune.txt",
-      "hash": "06ca718705ef48d1914755c2eff7ec9d737bc4d3f1f610bd8ccbc78b392492bf",
+      "hash": "20dc9dbfe2f95a71540ca34d4b2b4a1c4d20f0ef60f2fa9c0bebc292d3c693d2",
       "title": "65mm Tiny whoop tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4289,7 +4309,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_7_tune.txt",
-      "hash": "79d18862af0910b2f6f6696cf9d8eb50f17f91c1d55c3ba4e407ccf7f55642c7",
+      "hash": "a70f18bfdeab445f1d1cae291236dcda507660cb53068c3b755ca2fb62fdc419",
       "title": "AOS 7 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4310,7 +4330,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_cine20_tune.txt",
-      "hash": "7689e3e9e1caa294a4ba9e071a104af21404d67b476ca68bf7ee736f467537aa",
+      "hash": "11ae3ebde664c8314bbaedd3748a7366e3555cf6bee12f1769708246965d30a8",
       "title": "AOS Cine20 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4332,7 +4352,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_cine25_tune.txt",
-      "hash": "4d58d806e69a9a664693f48f2ca3220942285991a49b614220f33689bcd42d59",
+      "hash": "444b0644616fddb0df32f0cd30ea144c55deb1123fab5b02c1c52cc4916b450e",
       "title": "AOS Cine25 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4354,7 +4374,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_cine30_tune.txt",
-      "hash": "49dc3c50edd3b24faa32b6d63702376510060e2743e5ed7c4255f4b187c13185",
+      "hash": "b6d3c96cb2fd89622ca0bc1d702406edfa62aacb427b0bc0e6caa5178cd93151",
       "title": "AOS Cine30 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4376,7 +4396,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_cine35_tune.txt",
-      "hash": "9787bd598bcf8155ae007f92a0756805a99dbf871295429da5986a8a95ef931a",
+      "hash": "2a1fae2b26239c649b349938976a58bdd53458731747aef106777c1e579ff15d",
       "title": "AOS Cine35 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4397,7 +4417,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_cine40_tune.txt",
-      "hash": "64b046c8f686d922e182a4e288aef3c8df8c7102c09c293f6f0db156a90f3113",
+      "hash": "31167e40239d8848cfa9e913ca73bb5f4c3effbacbc3db806cb27cc9e9bc1015",
       "title": "AOS Cine40 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4419,7 +4439,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_cine80_tune.txt",
-      "hash": "ad46ea5188aded243ff29748df1d50c5d372e5fee04a8b3787906ad2ef0a1936",
+      "hash": "cd8d7500cc37fce7ca3dc6f76822cf6e1612ab5cf688aef2b44411e8767b3049",
       "title": "AOS Cine80 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4440,7 +4460,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_hdzero_aio5_65mm.txt",
-      "hash": "88e12e92a71888d7395f55e34c8ebf7df73835213264e0ee5662586b3b7d956b",
+      "hash": "6a1c28c6416ea5ab6f693d49f82bad2f57b14d4a0396efb0ce2327003e4ff688",
       "title": "HDZERO AIO5 65mm Whoop tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4466,7 +4486,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_hs5_tune.txt",
-      "hash": "35461137f565207d05d7acab769a703545c6a261f9e06f9f9651ad7825d68d43",
+      "hash": "b4683e1098d44ae463072f9553d060d6ec35e3087b39ca72aea93d97d571c782",
       "title": "AOS HS5 200mph tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4487,7 +4507,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_lr5_tune.txt",
-      "hash": "b7f00d7b9cc0d7aa069b894e9c4f50dadf77bdfee97d8b359466ff1e62c6660d",
+      "hash": "3d6483611c1a406d8654709a41c3b1f9621b0b4c0622674af22a7a6b519e29c6",
       "title": "AOS LR5 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4508,7 +4528,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_t3_tune.txt",
-      "hash": "e25cd356fd2b9b2282cf9d8357522a2aa4266591302f46ebe475322865a5cced",
+      "hash": "858eb41b8d3f7129ef5698a528349c712aa4988b9c677ab59efa9303218008fd",
       "title": "AOS T3 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4530,7 +4550,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_ul10_tune.txt",
-      "hash": "c44af2b808bcea1deb04ef7514be74c520bdd30978e831012294af19a9f42ccc",
+      "hash": "ac93e7f6de6cd26d81e8690b53466e119d2065d474f69e8e42c9b39d6780dff5",
       "title": "AOS UL10 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4551,7 +4571,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_ul5_tune.txt",
-      "hash": "fa1b99ad729bded912143e4cd4b67464b0b6dad1d0ca4cdfc04704f733b4f4af",
+      "hash": "53142623b47846ec7fd39a79262a5f78d491f8da61460ff7ec1751e348399659",
       "title": "AOS UL5 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4572,7 +4592,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_ul7_tune.txt",
-      "hash": "e4f72641a69798f4c4ece6c90ae10980bcd2f5d4445264195ad07004b0dfd1cd",
+      "hash": "d6fe85738752d8dbc8b1135543f1d3975408ce342bfb8c5528660d597afdf56f",
       "title": "AOS UL7 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4593,7 +4613,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/aos_rc/aos_ul8_tune.txt",
-      "hash": "1ebcfdfdfb78544ce0669580a1d4a7e456189ee33241548b7a20407774858d4c",
+      "hash": "cb4014ddc9d016aa92955869a535d4d2841a5949ee00304e29a7083410baa312",
       "title": "AOS UL8 tune by Chris Rosser",
       "firmware_version": [
         "2026.6"
@@ -4614,7 +4634,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/basher_jazzmutant_tune.txt",
-      "hash": "d1906a7844e06afae3fea30c79b8f888660c766be7d770dc35977fc2c823e4ab",
+      "hash": "5e93b6da3e36ada950a6c83a9675c3b7f12cb28be58e7f953cad694e17a670b3",
       "title": "Basher 5\" 6S by JazzMutant",
       "firmware_version": [
         "2026.6"
@@ -4637,7 +4657,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/blackbird_nextlevel.txt",
-      "hash": "e47cc8a9e6643dbde7bebae7d59f41ea9089d9314400deb1325df9076db6fe78",
+      "hash": "7cf3dd54ce836e3551907b6114cb602bcd30795aee783a3655fb25985922ee7b",
       "title": "Black Bird FPV | Next Level",
       "firmware_version": [
         "2026.6"
@@ -4659,7 +4679,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/defaults.txt",
-      "hash": "4ed724ca3029ec7d965b991260a66e4b522fd9936130bd528db9c3d442aed398",
+      "hash": "3aaa6a7200dbacd878d45371fae9e3eea1c1b0600e1239faa4206ff21e926da2",
       "title": "Betaflight 2026.6 TUNE defaults",
       "firmware_version": [
         "2026.6"
@@ -4679,7 +4699,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/karate/karate_race_2025.txt",
-      "hash": "7ce3cb8129d94fed9d1b849b7652835d82de62182451dfe48ca8a281f6f5185b",
+      "hash": "97a24a106bc5b92851850029074204ed531f205b72ac2d48e2752ad9e12a5911",
       "title": "Karate Race 6s 5\" 2026.6",
       "firmware_version": [
         "2026.6"
@@ -4708,7 +4728,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/karate/karate_whoop_2025_12.txt",
-      "hash": "12c1cc5453a149943ec7f02116b7e662141d30406316974b6d61f04c33ddcadf",
+      "hash": "b55d1a3ed05a2e87829e1e726d32a568f5431152891580f2b0c9dc988ff47d3c",
       "title": "Karate RACE Whoop 2026.6",
       "firmware_version": [
         "2026.6"
@@ -4730,7 +4750,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/openracer_jazzmutant_tune.txt",
-      "hash": "87fd2c280d921a108fac1420e4643ed985489f1eb8e51c73d16b980f1bbbd914",
+      "hash": "ff8689ca1990ae8b8ff072c3f6dfcca5c3033788685e57dac4fc3e2ef0f5a9b8",
       "title": "OpenRacer 5\" 6S by JazzMutant",
       "firmware_version": [
         "2026.6"
@@ -4771,7 +4791,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/supafly_fpv/SupaflyFPV_Freestyle_3_4_Inch_EasyTune.txt",
-      "hash": "d03d6450d376a19593eec693022284294d6f9d0964007e121e69e6f035887cda",
+      "hash": "087b858832e56cc4f1cf30d88c1ada70eb15685b4099e8e51deb7953a4b41dc6",
       "title": "SupaflyFPV Freestyle 3/4 Inch",
       "firmware_version": [
         "2026.6"
@@ -4794,7 +4814,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/supafly_fpv/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "7bd855fc647c1c18177431576168f4fe0797a2c68b986186308f96d83d5479d5",
+      "hash": "2bab0e40660de4e79c43227a186680d80ffa9f7c45b4a4d9b6eb44fa55de063e",
       "title": "SupaflyFPV Freestyle 5 Inch",
       "firmware_version": [
         "2026.6"
@@ -4815,7 +4835,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/supafly_fpv/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "701bc7b3ddf7ae8616d187f97f015fd613534965f93fa31475f523f39f4ab181",
+      "hash": "a01835a39ba31a18fcda94669b797907c2b19432c74f2e45ea15067e012b5eef",
       "title": "SupaflyFPV Freestyle 6 Inch",
       "firmware_version": [
         "2026.6"
@@ -4836,7 +4856,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/supafly_fpv/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "cbbb5e6de97d58f5863cc31a2e83e72340975587bc85fa2f6dd163ecdc7bf457",
+      "hash": "99dce51c4ee78812e34b2d94e872de45c21e760fb01d1d60431f357e3eb82164",
       "title": "SupaflyFPV Freestyle 7 Inch",
       "firmware_version": [
         "2026.6"
@@ -4857,7 +4877,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/uav_tech/UAV_tech_10in.txt",
-      "hash": "1652e21b789e5305c475d43d878e68b04a74d5d08a85fc9d0af79c9506585bc0",
+      "hash": "0ee659077da42fd4e88c88ff984e83592c2d7bd6b792fc128e8c21077ff1c529",
       "title": "UAV Tech - 10\" (1400-1700g | 31xx motors)",
       "firmware_version": [
         "2026.6"
@@ -4956,7 +4976,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/uav_tech/UAV_tech_8-9in.txt",
-      "hash": "f663a27d98ce11e8470d1c660cf38abe32fd7ab21ba4faedd0d5d0a32957df17",
+      "hash": "a858b3a8952721066af9e4c604c921a8838a7869d0a90ac414a46a1c19741c22",
       "title": "UAV Tech - 8\"/9\" (1000-1400 AUW)",
       "firmware_version": [
         "2026.6"
@@ -5045,7 +5065,7 @@
     },
     {
       "fullPath": "presets/2026.6/tune/uav_tech/UAV_tech_Micro.txt",
-      "hash": "78021e208cbf0f0e2b216f9884b636bfc1557acaac6853f2d989b870020d191c",
+      "hash": "f964cf4ab031a513642a202da7607de06395fbb3137484da9dbb5002311bf2af",
       "title": "UAV Tech - Micro (2\" to 4\")",
       "firmware_version": [
         "2026.6"

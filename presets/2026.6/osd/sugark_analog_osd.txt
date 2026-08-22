@@ -3,16 +3,16 @@
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: analog, SD, whoop, OSD, sugarK, racing
-#$ AUTHOR: sugarK 
+#$ AUTHOR: sugarK
 
 #$ DESCRIPTION: sugarKs analog OSD race settings
-#$ DESCRIPTION: Intended to be used with analog whoops 
+#$ DESCRIPTION: Intended to be used with analog whoops
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: for use on analog racing whoops
 #$ DESCRIPTION:
 #$ DESCRIPTION: Information
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DESCRIPTION: Preview:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: <img width="237" height="172" alt="Screenshot 2026-04-15 at 3 27 51 pm" src="https://github.com/user-attachments/assets/71bc26fc-2fe6-4478-899e-7f61dab72398" />

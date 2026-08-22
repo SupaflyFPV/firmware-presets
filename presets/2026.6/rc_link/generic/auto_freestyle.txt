@@ -8,7 +8,7 @@
 
 #$ PRIORITY: 0
 
-#$ INCLUDE: presets/2026.6/rc_link/defaults.txt
+#$ INCLUDE: presets/2026.6/rc_link/generic/auto_defaults.txt
 
 set rc_smoothing_auto_factor = 50
 set rc_smoothing_auto_factor_throttle = 50

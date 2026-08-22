@@ -131,4 +131,3 @@ set pidsum_limit_yaw = 1000
 #$ OPTION_GROUP END
 
 simplified_tuning apply
-

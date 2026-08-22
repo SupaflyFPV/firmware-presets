@@ -1,7 +1,7 @@
 #$ TITLE: Karate RACE Whoop 2026.6
 #$ FIRMWARE_VERSION: 2026.6
 #$ CATEGORY: TUNE
-#$ STATUS: OFFICIAL 
+#$ STATUS: OFFICIAL
 #$ KEYWORDS: karate, 1S, race, brushless, whoop, 65mm, sugarK, KarateBrot
 #$ AUTHOR: sugarK
 
@@ -12,13 +12,13 @@
 #$ DESCRIPTION: <h1>Karate Race Whoop 65mm</h1>
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
-#$ DESCRIPTION: This 1s whoop racing tune was developed using my custom Betafpv 5n1 build that weighs 15.6g [Air Brushless FC](https://betafpv.com/collections/brushless-flight-controller/products/air-brushless-flight-controller?variant=41142912745606) it is a slider tune allowing easy modification. 
+#$ DESCRIPTION: This 1s whoop racing tune was developed using my custom Betafpv 5n1 build that weighs 15.6g [Air Brushless FC](https://betafpv.com/collections/brushless-flight-controller/products/air-brushless-flight-controller?variant=41142912745606) it is a slider tune allowing easy modification.
 #$ DESCRIPTION: Has been tested on the mob6 hdz and NBD rs builds. For indoor flying/racing turn off air mode for the best performance. If your into acro flying in a big space put it on a switch.
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: This tune should work well on any BRUSHLESS powered quality whoop build in the sub 20g range. It shouldn't be used on a brushed whoop.
-#$ DESCRIPTION: 
+#$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: ## Things to note:
@@ -76,12 +76,12 @@ set cpu_late_limit_permille = 15
         set dyn_idle_min_rpm = 120
         set dyn_idle_p_gain = 35
     #$ OPTION END
-    
+
     #$ OPTION BEGIN (UNCHECKED): 18k FS 18g+ whoop
         set dyn_idle_min_rpm = 150
         set dyn_idle_p_gain = 35
     #$ OPTION END
-    
+
 #$ OPTION_GROUP END
 
 #$ OPTION BEGIN (CHECKED): Vbat sag compensation ( recommended )
@@ -91,10 +91,10 @@ set cpu_late_limit_permille = 15
 #$ OPTION BEGIN (UNCHECKED): Airmode OFF
     feature -AIRMODE
 #$ OPTION END
-    
+
 #$ OPTION BEGIN (UNCHECKED): New crash flip mode
     set crashflip_rate = 30
-    set crashflip_auto_rearm = ON 
+    set crashflip_auto_rearm = ON
 #$ OPTION END
 
 # -- PID values --
@@ -120,7 +120,7 @@ simplified_tuning apply
 
     #$ OPTION END
 
-    #$ OPTION BEGIN (UNCHECKED): Ghost 
+    #$ OPTION BEGIN (UNCHECKED): Ghost
         feature RX_SERIAL
         set serialrx_provider = GHST
 
@@ -131,48 +131,48 @@ simplified_tuning apply
         set serialrx_provider = SBUS
 
     #$ OPTION END
-    
-    #$ OPTION BEGIN (UNCHECKED): Set RX to SPI ELRS 
-        set rx_spi_protocol = EXPRESSLRS   
-        
+
+    #$ OPTION BEGIN (UNCHECKED): Set RX to SPI ELRS
+        set rx_spi_protocol = EXPRESSLRS
+
     #$ OPTION END
 
 #$ OPTION_GROUP END
 
 #$ OPTION_GROUP BEGIN (EXCLUSIVE): Stick feel aka Jitter reduction
-    #$ OPTION BEGIN (UNCHECKED): Standard feel 
+    #$ OPTION BEGIN (UNCHECKED): Standard feel
         set feedforward_jitter_factor = 7
-        
+
     #$ OPTION END
-    
-    #$ OPTION BEGIN (CHECKED): Racy feel 
+
+    #$ OPTION BEGIN (CHECKED): Racy feel
         set feedforward_jitter_factor = 3
-        
+
     #$ OPTION END
-    
-    #$ OPTION BEGIN (UNCHECKED): Sharpest feel 
+
+    #$ OPTION BEGIN (UNCHECKED): Sharpest feel
         set feedforward_jitter_factor = 0
-        
+
     #$ OPTION END
-    
+
 #$ OPTION_GROUP END
 
 #$ OPTION_GROUP BEGIN: Optional rates
     #$ OPTION BEGIN (UNCHECKED): sugarK's rates
         #$ INCLUDE: presets/4.3/rates/SugarK_whoop.txt
-        
+
     #$ OPTION END
-    
+
     #$ OPTION BEGIN (UNCHECKED): throttle expo for 30% hover throttle
         set thr_mid = 30
         set thr_hover = 30
         set thr_expo = 65
     #$ OPTION END
-    
+
     #$ OPTION BEGIN (UNCHECKED): throttle expo for 45% hover throttle
         set thr_mid = 45
         set thr_hover = 45
         set thr_expo = 65
     #$ OPTION END
-    
+
 #$ OPTION_GROUP END
